@@ -129,3 +129,45 @@ For example:
 
 `<time>`Represents a date or time
 
+
+## Multimedia Tags in HTML
+
+HTML provides **multimedia tags** to embed audio and video files directly into a web page. The main tags are:
+
+-   `<audio>` → for audio content (music, podcasts, sound effects)
+    The `<audio>` tag embeds an audio file.
+    
+```
+       <audio controls>
+  <source src="song.mp3" type="audio/mpeg">
+  <!--fallback content -->
+  Your browser does not support the audio element.
+</audio>
+ ```
+ Always include **fallback content** for unsupported browsers.
+-  You can include **multiple `<source>` tags** for fallback formats:
+    
+-   `<video>` → for video content
+  ```
+    <video width="640" height="360" controls>
+  <source src="movie.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+   ```
+   ### Notes:
+
+   -1 Like `<audio>`, multiple `<source>` tags can be used for fallback formats.    
+-2 `<video>` can contain **subtitles or captions** with `<track>`.
+
+-   `<track>` → for text tracks, like subtitles or captions, used inside `<video>` or `<audio>`
+
+   ```
+    <video width="640" height="360" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <track src="subtitles_en.vtt" kind="subtitles" srclang="en" label="English">
+  <track src="subtitles_es.vtt" kind="subtitles" srclang="es" label="Español">
+  Your browser does not support the video tag.
+</video>
+ ```
+
+These tags allow browsers to play media **without needing external plugins** like Flash.
