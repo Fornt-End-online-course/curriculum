@@ -47,9 +47,12 @@ The `<title>` tag is **one of the most important** SEO elements.
 -   Browser tab 🖥️
     
 -   Google search results 🔍
--  ** (b) Meta Description**
+  
+    ** (b) Meta Description**
 
 A short description of the page, shown in search results.
+
+
  **( c) Headings (`<h1>`–`<h6>`)**
 -   Use **only one `<h1>` per page** (main title)
     
