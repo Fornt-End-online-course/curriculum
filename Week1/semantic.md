@@ -107,7 +107,8 @@ For example:
 -   🧠 **Clean code** → Easier for developers to read and maintain.
     
 -   🔄 **Reusability** → Semantic sections can be reused or moved easily.
-**What NOT to Do (SEO Mistakes ❌)**
+  
+## **What NOT to Do (SEO Mistakes ❌)**
 ❌ Keyword stuffing — repeating keywords unnaturally
 
 ❌ Copying content from other websites
