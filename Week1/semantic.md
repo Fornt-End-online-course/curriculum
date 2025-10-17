@@ -47,9 +47,12 @@ The `<title>` tag is **one of the most important** SEO elements.
 -   Browser tab 🖥️
     
 -   Google search results 🔍
--  ** (b) Meta Description**
+  
+    ** (b) Meta Description**
 
 A short description of the page, shown in search results.
+
+
  **( c) Headings (`<h1>`–`<h6>`)**
 -   Use **only one `<h1>` per page** (main title)
     
@@ -104,7 +107,22 @@ For example:
 -   🧠 **Clean code** → Easier for developers to read and maintain.
     
 -   🔄 **Reusability** → Semantic sections can be reused or moved easily.
-- 
+  
+## **What NOT to Do (SEO Mistakes ❌)**
+❌ Keyword stuffing — repeating keywords unnaturally
+
+❌ Copying content from other websites
+
+❌ No <title> or <meta> tags
+
+❌ Broken links
+
+❌ Images with no alt text
+
+❌ Not mobile friendly
+
+❌ Slow loading due to huge files
+
 ### Common HTML5 Semantic Tags
 
 `<header>` Top section of the page or a section
