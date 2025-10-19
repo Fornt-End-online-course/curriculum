@@ -2,7 +2,7 @@
 
 ### What is CSS?
 
-**CSS** stands for **Cascading Style Sheets**. It is a stylesheet language used to describe the look and formatting of a webpage written in **HTML** (or **XML**). While HTML provides the structure of a page (headings, paragraphs, images, etc.), CSS controls how those elements are presented (colors, fonts, layouts, spacing, and more).
+**CSS** stands for **Cascading Style Sheets**. It is a stylesheet language used to describe the look and formatting of a webpage written in **HTML** . While HTML provides the structure of a page (headings, paragraphs, images, etc.), CSS controls how those elements are presented (colors, fonts, layouts, spacing, and more).
 
 ### How browsers render HTML + CSS together (structure + style) : 
 Browsers render **HTML + CSS** together through a series of well-defined steps that transform your code into the final visual web page
