@@ -1,8 +1,4 @@
 
-
-
-
-
 ##  CSS  Flexbox
 **Flexbox** (Flexible Box Layout) is used for **1D layouts** (row _or_ column).  
 It makes it easy to align, distribute, and reorder items inside a container.
