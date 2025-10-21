@@ -105,10 +105,10 @@ div p {
      Selects **direct children** only (`>`).
      
    ```
-     div > p {
+ div > p {
   color: blue;
 }
-   ```
+```
 
 → Styles `<p>` that are **immediate children** of `<div>` (not nested deeper).
 
