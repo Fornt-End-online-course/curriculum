@@ -104,7 +104,7 @@ div p {
 7. **Child Selector**
      Selects **direct children** only (`>`).
      
-   ```
+  ```
  div > p {
   color: blue;
 }
@@ -137,8 +137,10 @@ input[type="text"] {
   border: 2px solid blue;
 }
 ```
-👉 Super useful for styling **forms** or **links**.
- 5) **`:nth-of-type(n)` Selector**
+ Super useful for styling **forms** or **links**.
+
+
+ 10) **:nth-of-type(n) Selector**
 Selects the **n-th child of a specific type** within its parent.
 ```
 /* Every second paragraph inside a div */
@@ -151,6 +153,7 @@ tr:nth-of-type(odd) {
   background-color: #f0f0f0;
 }
 ```
+
  Great for styling lists, tables, and repeating elements.
 
 ----
