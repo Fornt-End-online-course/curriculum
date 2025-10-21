@@ -80,6 +80,7 @@ h1, h2, h3 {
 }
 ```
 Saves time and keeps code shorter.
+
 5.  **Universal Selector (`*`) :**
 Selects **all elements** on the page.
 ```
@@ -88,6 +89,7 @@ Selects **all elements** on the page.
 }
 ```
 Commonly used to reset browser default styles.
+
 6.  **Descendant Selector (`A B`) :** 
 
 Selects elements **inside** another element (nested).
@@ -97,6 +99,8 @@ div p {
 }
 ```
 → Styles all `<p>` inside a `<div>` (but not `<p>` elsewhere).
+
+
 7. **Child Selector**
      Selects **direct children** only (`>`).
      
@@ -107,6 +111,8 @@ div p {
    ```
 
 → Styles `<p>` that are **immediate children** of `<div>` (not nested deeper).
+
+
    8.  **Adjacent Sibling Selector (`A + B`) :**
  Selects an element that comes **immediately after** another element.
  ```
@@ -115,7 +121,9 @@ div p {
 }
  ```
 Styles the first `<p>` that comes right after an `<h1>`.
- 
+
+
+
 9.  **Attribute Selector (`[attribute]`)**
 Selects elements based on their **attributes** or **attribute values**.
 ```
