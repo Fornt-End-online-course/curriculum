@@ -227,3 +227,8 @@ Overrides `align-items` for one specific item.
 ✅ Combine Flexbox for alignment **inside components** (and Grid for full page layout).
 
 >Flexbox gives you precise control over alignment, spacing, and distribution of items along one axis — simple, powerful, and responsive.
+
+
+## CSS Grid Layout 
+
+check [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) details 
